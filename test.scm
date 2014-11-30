@@ -1,3 +1,4 @@
+;;; Write a function given 3 booleans, that will return true if any 2 are true.
 (define x '#t)
 (define y '#t)
 (define z '#t)
